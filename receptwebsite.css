@@ -1,0 +1,33 @@
+font-family: 'Roboto', sans-serif;
+
+#tekst1{
+	font-size: 20px;
+
+
+}
+
+#foto1{
+	margin-left:20px;
+	margin-top:10px;
+}
+#foto3{
+	margin-left:20px;
+	margin-top:10px;
+	width:300px;
+}
+
+
+p.tip{
+	border-left: 6px solid lightblue;
+	background-color: lightblue;
+	border-radius: 4px;
+	padding: 25px 25px 25px 25px;
+	font-size: 20px
+	line-height: 26px;
+}
+#content{
+	width: 1000px;
+	margin: 0px auto;
+	padding-bottom: 50px;
+}
+
